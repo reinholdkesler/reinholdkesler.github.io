@@ -5,12 +5,28 @@
     <link>https://reinholdkesler.github.io/wp/</link>
       <atom:link href="https://reinholdkesler.github.io/wp/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://reinholdkesler.github.io/media/icon_hub977120d88233454a285f41783ca1f6b_688912_512x512_fill_lanczos_center_3.png</url>
       <title>Working Papers</title>
       <link>https://reinholdkesler.github.io/wp/</link>
     </image>
+    
+    <item>
+      <title>The Interplay Between Product Variety and Customer Satisfaction: Theory and Evidence</title>
+      <link>https://reinholdkesler.github.io/wp/kkr_23/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/wp/kkr_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Apple&#39;s App Tracking Transparency on App Monetization</title>
+      <link>https://reinholdkesler.github.io/wp/att_22/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/wp/att_22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GDPR and the Lost Generation of Innovative Apps</title>

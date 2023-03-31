@@ -2,16 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reinholdkesler.github.io/publication/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://reinholdkesler.github.io/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/wp/kkr_23/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/wp/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/wp/att_22/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://reinholdkesler.github.io/publication/jmp/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <loc>https://reinholdkesler.github.io/publication/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/publication/qme_22/</loc>
@@ -23,10 +31,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/wp/nber_22/</loc>
-    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://reinholdkesler.github.io/wp/</loc>
     <lastmod>2022-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
