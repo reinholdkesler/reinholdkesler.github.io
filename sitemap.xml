@@ -2,15 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reinholdkesler.github.io/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+    <loc>https://reinholdkesler.github.io/wp/fra_24/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://reinholdkesler.github.io/wp/kkr_23/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+    <loc>https://reinholdkesler.github.io/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/wp/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/wp/kkr_23/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

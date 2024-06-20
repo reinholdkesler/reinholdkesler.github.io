@@ -5,12 +5,20 @@
     <link>https://reinholdkesler.github.io/wp/</link>
       <atom:link href="https://reinholdkesler.github.io/wp/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://reinholdkesler.github.io/media/icon_hub977120d88233454a285f41783ca1f6b_688912_512x512_fill_lanczos_center_3.png</url>
       <title>Working Papers</title>
       <link>https://reinholdkesler.github.io/wp/</link>
     </image>
+    
+    <item>
+      <title>Existence, Antecedents and Consequences of Non-Compliance in Mobile App Markets</title>
+      <link>https://reinholdkesler.github.io/wp/fra_24/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/wp/fra_24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Interplay Between Product Variety and Customer Retention: Theory and Evidence</title>
