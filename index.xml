@@ -5,7 +5,7 @@
     <link>https://reinholdkesler.github.io/</link>
       <atom:link href="https://reinholdkesler.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinhold Kesler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://reinholdkesler.github.io/media/icon_hub977120d88233454a285f41783ca1f6b_688912_512x512_fill_lanczos_center_3.png</url>
       <title>Reinhold Kesler</title>
@@ -14,25 +14,41 @@
     
     <item>
       <title>Existence, Antecedents and Consequences of Non-Compliance in Mobile App Markets</title>
-      <link>https://reinholdkesler.github.io/wp/fra_24/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://reinholdkesler.github.io/wp/fra_24/</guid>
+      <link>https://reinholdkesler.github.io/wp/fra_25/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/wp/fra_25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Interplay Between Product Variety and Customer Retention: Theory and Evidence</title>
-      <link>https://reinholdkesler.github.io/wp/kkr_23/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://reinholdkesler.github.io/wp/kkr_23/</guid>
+      <link>https://reinholdkesler.github.io/publication/ms_25/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/publication/ms_25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Apple&#39;s App Tracking Transparency on App Monetization</title>
-      <link>https://reinholdkesler.github.io/wp/att_22/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://reinholdkesler.github.io/wp/att_22/</guid>
+      <link>https://reinholdkesler.github.io/wp/att_23/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/wp/att_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competitors&#39; Reactions to Big Tech Acquisitions: Evidence from Mobile Apps</title>
+      <link>https://reinholdkesler.github.io/wp/diw_23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/wp/diw_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDPR and the Lost Generation of Innovative Apps</title>
+      <link>https://reinholdkesler.github.io/wp/nber_23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/wp/nber_23/</guid>
       <description></description>
     </item>
     
@@ -53,22 +69,6 @@
     </item>
     
     <item>
-      <title>GDPR and the Lost Generation of Innovative Apps</title>
-      <link>https://reinholdkesler.github.io/wp/nber_22/</link>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://reinholdkesler.github.io/wp/nber_22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Competitors&#39; Reactions to Big Tech Acquisitions: Evidence from Mobile Apps</title>
-      <link>https://reinholdkesler.github.io/wp/diw_21/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://reinholdkesler.github.io/wp/diw_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Big Tech Acquisitions - Towards Empirical Evidence</title>
       <link>https://reinholdkesler.github.io/publication/jeclap_21/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
@@ -77,18 +77,18 @@
     </item>
     
     <item>
-      <title>Rankings of Online Travel Agents, Channel Pricing, and Consumer Protection</title>
-      <link>https://reinholdkesler.github.io/publication/mksc_20/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://reinholdkesler.github.io/publication/mksc_20/</guid>
+      <title>Competition and Privacy in Online Markets: Evidence from the Mobile App Industry</title>
+      <link>https://reinholdkesler.github.io/publication/aom_20/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/publication/aom_20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Competition and Privacy in Online Markets: Evidence from the Mobile App Industry</title>
-      <link>https://reinholdkesler.github.io/wp/zew_19/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://reinholdkesler.github.io/wp/zew_19/</guid>
+      <title>Rankings of Online Travel Agents, Channel Pricing, and Consumer Protection</title>
+      <link>https://reinholdkesler.github.io/publication/mksc_20/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/publication/mksc_20/</guid>
       <description></description>
     </item>
     

@@ -2,28 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reinholdkesler.github.io/wp/fra_24/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <loc>https://reinholdkesler.github.io/wp/fra_25/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/wp/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://reinholdkesler.github.io/wp/kkr_23/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://reinholdkesler.github.io/wp/att_22/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/publication/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/publication/ms_25/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/wp/att_23/</loc>
+    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/wp/diw_23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reinholdkesler.github.io/wp/nber_23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/publication/qme_22/</loc>
@@ -34,24 +42,16 @@
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://reinholdkesler.github.io/wp/nber_22/</loc>
-    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://reinholdkesler.github.io/wp/diw_21/</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://reinholdkesler.github.io/publication/jeclap_21/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://reinholdkesler.github.io/publication/mksc_20/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <loc>https://reinholdkesler.github.io/publication/aom_20/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://reinholdkesler.github.io/wp/zew_19/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    <loc>https://reinholdkesler.github.io/publication/mksc_20/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reinholdkesler.github.io/publication/ijio_18/</loc>

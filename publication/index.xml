@@ -5,12 +5,20 @@
     <link>https://reinholdkesler.github.io/publication/</link>
       <atom:link href="https://reinholdkesler.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://reinholdkesler.github.io/media/icon_hub977120d88233454a285f41783ca1f6b_688912_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://reinholdkesler.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The Interplay Between Product Variety and Customer Retention: Theory and Evidence</title>
+      <link>https://reinholdkesler.github.io/publication/ms_25/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/publication/ms_25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vertical Integration of Platforms and Product Prominence</title>
@@ -33,6 +41,14 @@
       <link>https://reinholdkesler.github.io/publication/jeclap_21/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://reinholdkesler.github.io/publication/jeclap_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competition and Privacy in Online Markets: Evidence from the Mobile App Industry</title>
+      <link>https://reinholdkesler.github.io/publication/aom_20/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://reinholdkesler.github.io/publication/aom_20/</guid>
       <description></description>
     </item>
     
